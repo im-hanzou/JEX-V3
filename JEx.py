@@ -1,7 +1,7 @@
 # coding=utf-8
 # [it's work only in python2.7]
 # --------------------------------
-YOUR_Email_For_TAkeAdmin_Exploit = 'sukacrot07@gmail.com'  # Edit this line with your email Address
+YOUR_Email_For_TAkeAdmin_Exploit = 'im.hanzou@gmail.com'  # Edit this line with your email Address
 r = '\033[31m'
 g = '\033[32m'  # JEx Bot Version 3.0 [1/10/2020]
 y = '\033[33m'  # Note! : We don't Accept any responsibility for any illegal usage.
